@@ -42,6 +42,12 @@ public class MainActivity extends AppCompatActivity {
         //feature test04 --- 1
         //feature test04 --- 2
 
+
+        // feature test03 --- 1
+        // feature test03 --- 2
+        // feature test03 --- 3
+
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
