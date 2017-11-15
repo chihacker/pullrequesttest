@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
         // feature test03 --- 1
         // feature test03 --- 2
+        // feature test03 --- 3
 
 
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
