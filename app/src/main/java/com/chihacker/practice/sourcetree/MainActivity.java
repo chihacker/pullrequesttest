@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
         mTextMessage.setText("feature/test02 ---- 1");
 
         // feature test03 --- 1
+        // feature test03 --- 2
+
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
