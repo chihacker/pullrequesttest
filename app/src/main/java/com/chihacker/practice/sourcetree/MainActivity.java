@@ -51,6 +51,17 @@ public class MainActivity extends AppCompatActivity {
 
         //feature/tgest02 --- 2
 
+
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+        //feature/test5 work
+
+
         mTextMessage.setText("feature/test01 -- 1");
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
